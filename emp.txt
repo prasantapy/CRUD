@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<django-objects version="1.0">
+   <object model="api.employee" pk="1">
+      <field name="Ename" type="CharField">prasanta</field>
+      <field name="EJob" type="CharField">Developer</field>
+      <field name="ESal" type="FloatField">60000.0</field>
+      <field name="Eaddr" type="CharField">Odisha</field>
+   </object>
+   <object model="api.employee" pk="2">
+      <field name="Ename" type="CharField">SAI</field>
+      <field name="EJob" type="CharField">Tester</field>
+      <field name="ESal" type="FloatField">35000.0</field>
+      <field name="Eaddr" type="CharField">Kok</field>
+   </object>
+   <object model="api.employee" pk="3">
+      <field name="Ename" type="CharField">Chimayee</field>
+      <field name="EJob" type="CharField">HR</field>
+      <field name="ESal" type="FloatField">40000.0</field>
+      <field name="Eaddr" type="CharField">Ben</field>
+   </object>
+   <object model="api.employee" pk="4">
+      <field name="Ename" type="CharField">Monalish</field>
+      <field name="EJob" type="CharField">Developer</field>
+      <field name="ESal" type="FloatField">55000.0</field>
+      <field name="Eaddr" type="CharField">Hyb</field>
+   </object>
+</django-objects>
